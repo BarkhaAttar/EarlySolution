@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-19T10:57:07 IST" name="Default suite" finished-at="2023-01-19T10:58:18 IST" duration-ms="70562">
+    <groups>
+    </groups>
+    <test started-at="2023-01-19T10:57:07 IST" name="Default test" finished-at="2023-01-19T10:58:18 IST" duration-ms="70562">
+      <class name="Test.Ercontactscreentest">
+        <test-method is-config="true" signature="browseon()[pri:0, instance:Test.Ercontactscreentest@5e600dd5]" started-at="2023-01-19T10:57:07 IST" name="browseon" finished-at="2023-01-19T10:57:15 IST" duration-ms="7966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseon -->
+        <test-method signature="clickonapplication()[pri:0, instance:Test.Ercontactscreentest@5e600dd5]" started-at="2023-01-19T10:57:15 IST" name="clickonapplication" finished-at="2023-01-19T10:58:18 IST" duration-ms="62560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonapplication -->
+      </class> <!-- Test.Ercontactscreentest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
